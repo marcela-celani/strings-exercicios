@@ -13,3 +13,4 @@ a) **Remova** o excesso de espaços no final da string;
 b) Imprima no console a **quantidade de caracteres** da string, *antes* e *depois* da remoção dos espaços;
 
 c) **Substitua** os traços `________` por “sticioso”.
+
